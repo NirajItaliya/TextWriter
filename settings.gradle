@@ -1,0 +1,3 @@
+include ':htextview-typer'
+include ':app'
+rootProject.name = "text"
